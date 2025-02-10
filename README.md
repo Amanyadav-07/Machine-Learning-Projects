@@ -38,7 +38,14 @@ Developed models for **binary and multiclass classification** problems:
 ---
 
 ## 📜 **Datasets**  
-The datasets used in these projects are stored in the **`Data/`** directory.  
+The datasets used in these projects are stored in the **`Data/`** directory. 
+
+## 📬 Connect with Me  
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Amanyadav-07)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanyadav0071/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanyadav32327@gmail.com)  
+
 
 ---
 
